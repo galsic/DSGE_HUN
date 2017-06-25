@@ -1,10 +1,3 @@
-/*
- * This code is based on the work of Johannes Pfeifer on the model of:
- * Jordi Galí and Tommaso Monacelli (2005) "Monetary Policy and Exchange Rate
- * Volatility in a Small Open Economy", Review of Economic Studies 72, 707-734.
- * Available at: https://github.com/JohannesPfeifer/DSGE_mod/blob/master/Gali_Monacelli_2005/Gali_Monacelli_2005.mod
- 
- 
 var pih ${\pi_h}$ (long_name='Domestic inflation')
     x $x$ (long_name='Output gap')
     y $y$ (long_name='Output')
